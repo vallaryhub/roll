@@ -2457,6 +2457,12 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dice_1
+drawable dice_2
+drawable dice_3
+drawable dice_4
+drawable dice_5
+drawable dice_6
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2739,6 +2745,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id info
@@ -2955,7 +2962,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3315,6 +3321,8 @@ string path_password_strike_through
 string roll
 string search_menu_title
 string status_bar_notification_info_overflow
+string t
+string todo
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

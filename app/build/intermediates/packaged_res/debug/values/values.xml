@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
+    <string name="t">TODO</string>
+    <string name="todo">TODO</string>
     <style name="Theme.DiceRoller" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
