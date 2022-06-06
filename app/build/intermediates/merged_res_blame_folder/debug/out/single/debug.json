@@ -1,15 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_5.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_5.png"
+    },
+    {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_3.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_3.png"
     },
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
@@ -18,6 +26,10 @@
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_1.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_1.png"
     },
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -56,6 +68,10 @@
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-pngs-21:\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_6.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_6.png"
+    },
+    {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-pngs-21:\\drawable-mdpi\\ic_launcher_background.png"
     },
@@ -76,6 +92,10 @@
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\xml\\backup_rules.xml"
     },
     {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_4.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_4.png"
+    },
+    {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -86,6 +106,10 @@
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\drawable_dice_2.png.flat",
+        "source": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-main-28:\\drawable\\dice_2.png"
     },
     {
         "merged": "C:\\Users\\ANDROID\\.gradle\\daemon\\7.3.3\\com.example.diceroller.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
